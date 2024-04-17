@@ -12,3 +12,8 @@ by Paulo Henrique Raposo
 
 
 - The folder name should be the same as the .asd file inside.
+
+#### Screenshot (loading serapeum)
+
+
+![alt text](https://github.com/PHRaposo/omasdf/blob/main/omasdf/omasdf-screenshot.png)
